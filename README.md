@@ -3,3 +3,5 @@ This is a set of materials that I have practiced when working with T-SQL in Miro
 
 Every script can be applied independently from the others and is valid in every database using the T-SQL language.
 Most ofthe code is done for self-learning purposes and sql-tunning for better performance on large amount of data.
+
+Database used: AdventureWorks2012
